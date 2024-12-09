@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/187428572?s=200&v=4" alt="App Icon" width=64 style="border-radius: 1rem;">
-  <p style="font-size:32;font-weight:600;margin-bottom: 0;">DiaBite - Diabetes &  Dietary</p>
-  <p><i>Control Your Diabet and Food</i></p>
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/187428572?s=200&v=4&h=300&w=300&fit=cover&mask=circle" alt="App Icon" style="width:72px; height:72px;">
+  <h1>DiaBite - Control Your Diabet and Food</h1>
 </div>
 
 ## C242-PS067 [Product-Based Capstone - Bangkit 2024 Batch 2]
@@ -67,6 +66,5 @@ Have questions or suggestions? We'd love to hear from you!
 ---
 
 <div align="center">
-  <p style="margin-bottom:0;">Made by C242-PS067 with ❤️</p>
-  <p>Bangkit Academy 2024 Batch 2 Capstone Project</p>
+  <p>Made by C242-PS067 with ❤️ <br> <b>Bangkit Academy 2024 Batch 2 Capstone Project</b></p>
 </div>
