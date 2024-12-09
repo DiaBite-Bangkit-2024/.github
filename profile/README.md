@@ -3,7 +3,7 @@
   <h1>DiaBite - Control Your Diabet and Food</h1>
 </div>
 
-## C242-PS067 [Product-Based Capstone - Bangkit 2024 Batch 2]
+# C242-PS067 [Product-Based Capstone - Bangkit 2024 Batch 2]
 
 ## 📑 Description
 
