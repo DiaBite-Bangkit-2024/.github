@@ -30,28 +30,28 @@ With this, we aim to empower individuals to take better control of their health 
 ## 📲 Preview/Screenshot
 
 <p align="center">
-  <img src="/assets/ss-diabite-0.jpg?raw=true" alt="splash" width="200" height="500">
-  <img src="/assets/ss-diabite-1.jpg?raw=true" alt="onboard1" width="200" height="500">
-  <img src="/assets/ss-diabite-2.jpg?raw=true" alt="onboard2" width="200" height="500">
-  <img src="/assets/ss-diabite-3.jpg?raw=true" alt="onboard3" width="200" height="500">
+  <img src="/assets/ss-diabite-0.jpg?raw=true" alt="splash" width="200" height="450">
+  <img src="/assets/ss-diabite-1.jpg?raw=true" alt="onboard1" width="200" height="450">
+  <img src="/assets/ss-diabite-2.jpg?raw=true" alt="onboard2" width="200" height="450">
+  <img src="/assets/ss-diabite-3.jpg?raw=true" alt="onboard3" width="200" height="450">
 </p>
 <p align="center">
-  <img src="/assets/ss-diabite-6.jpg?raw=true" alt="profile" width="200" height="500">
-  <img src="/assets/ss-diabite-7.jpg?raw=true" alt="analyze" width="200" height="500">
-  <img src="/assets/ss-diabite-5.jpg?raw=true" alt="result" width="200" height="500">
-  <img src="/assets/ss-diabite-8.jpg?raw=true" alt="food suggestion" width="200" height="500">
+  <img src="/assets/ss-diabite-6.jpg?raw=true" alt="profile" width="200" height="450">
+  <img src="/assets/ss-diabite-7.jpg?raw=true" alt="analyze" width="200" height="450">
+  <img src="/assets/ss-diabite-5.jpg?raw=true" alt="result" width="200" height="450">
+  <img src="/assets/ss-diabite-8.jpg?raw=true" alt="food suggestion" width="200" height="450">
 </p>
 <p align="center">
-  <img src="/assets/ss-diabite-9.jpg?raw=true" alt="result tag" width="200" height="500">
-  <img src="/assets/ss-diabite-10.jpg?raw=true" alt="nutrition info" width="200" height="500">
-  <img src="/assets/ss-diabite-11.jpg?raw=true" alt="history" width="200" height="500">
-  <img src="/assets/ss-diabite-12.jpg?raw=true" alt="quiz" width="200" height="500">
+  <img src="/assets/ss-diabite-9.jpg?raw=true" alt="result tag" width="200" height="450">
+  <img src="/assets/ss-diabite-10.jpg?raw=true" alt="nutrition info" width="200" height="450">
+  <img src="/assets/ss-diabite-11.jpg?raw=true" alt="history" width="200" height="450">
+  <img src="/assets/ss-diabite-12.jpg?raw=true" alt="quiz" width="200" height="450">
 </p>
 <p align="center">
-  <img src="/assets/ss-diabite-13.jpg?raw=true" alt="articles" width="200" height="500">
-  <img src="/assets/ss-diabite-14.jpg?raw=true" alt="other menu" width="200" height="500">
-  <img src="/assets/ss-diabite-15.jpg?raw=true" alt="edit profile" width="200" height="500">
-  <img src="/assets/ss-diabite-16.jpg?raw=true" alt="dark mode" width="200" height="500">
+  <img src="/assets/ss-diabite-13.jpg?raw=true" alt="articles" width="200" height="450">
+  <img src="/assets/ss-diabite-14.jpg?raw=true" alt="other menu" width="200" height="450">
+  <img src="/assets/ss-diabite-15.jpg?raw=true" alt="edit profile" width="200" height="450">
+  <img src="/assets/ss-diabite-16.jpg?raw=true" alt="dark mode" width="200" height="450">
 </p>
 
 ## 🖥️ Repositories
